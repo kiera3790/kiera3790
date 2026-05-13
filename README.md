@@ -40,11 +40,15 @@ I enjoy building multidisciplinary engineering projects that combine hardware, s
 ## 🚁 Neo Drone
 Development of a drone platform using embedded systems and sensor integration.
 
-### Responsibilities
-- Flight control programming
-- IMU sensor integration
-- ESC motor control
-- PID tuning and stabilization
+### My Contributions
+- Integrated IMU sensor readings
+- Implemented PID tuning
+- Configured ESC motor control
+- Tested flight stabilization
+- Hardware integration and debugging
+
+### Reference:
+    https://github.com/rmit-nct/neo-drone
 
 ---
 
