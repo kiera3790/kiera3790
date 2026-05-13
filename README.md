@@ -73,6 +73,17 @@ Designed and developed custom PCBs for embedded system applications.
 
 ---
 
+## 🤖 Coursework: ABB GOFA Robot control
+Control ABB GOFA robot to perform a writing task using RAPID language
+
+### Focus Areas
+- System analysis
+- System control using RAPID programming language
+- Path planning analysis
+- Simulink simulation and control with URDF
+
+---
+
 ## ⚙️ Coursework: Vibratory Bowl Feeder Design
 Designed and analyzed a vibratory bowl feeder system for automated part feeding.
 
@@ -97,5 +108,5 @@ Designed and analyzed a vibratory bowl feeder system for automated part feeding.
 # 🛠 Technologies & Tools
 
 ```text
-Fusion 360 | SolidWorks | Embedded C | C++ | Python
+Fusion 360 | SolidWorks | Embedded C | C++ | Python | MATLAB
 ESP32 | PCB Design | Robotics | Mechatronics | Automation
